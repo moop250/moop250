@@ -40,4 +40,4 @@ Here you will find all of my important repos
 📫 **Get in Touch**
 
 - **Email**: [moop_git@proton.me](moop_git@proton.me)
-- **Linkedin** [Hugo Libine](https://www.linkedin.com/in/hugo-libine/)
+- **Linkedin**: [Hugo Libine](https://www.linkedin.com/in/hugo-libine/)
