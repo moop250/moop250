@@ -1,7 +1,7 @@
 # Hi there, I'm Hugo / Moop
 ![GitHub followers](https://img.shields.io/github/followers/moop250?label=Follow&color=red&style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/moop250?style=flat-square&color=yellow) ![](https://komarev.com/ghpvc/?username=moop250&style=flat-square)
 
-I'm an 18-year-old programming student currently studying at Ecole 42
+I'm a 19-year-old programming student currently studying at Ecole 42
 
 Through my studies, at 42 I have been learning C and am well on my way to moving on to C++. I have basic experience in Cisco Networking from my time studying at the Open University and from personal experience running a home lab. I mainly have experience in Windows and Linux with basic MacOS experience.
 
