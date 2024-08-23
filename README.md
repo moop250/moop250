@@ -19,7 +19,6 @@ Here you will find all of my important repos
 * [42_Cursus](https://github.com/moop250/42_Repo)
 
 💻 **I'm Currently working on**
-* [minishell](https://github.com/moop250/minishell)
 
 🎮 **Hobbies**
 * Gaming
