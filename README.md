@@ -20,6 +20,8 @@ Here you will find all of my important repos
 
 💻 **I'm Currently working on**
 
+* [C++](https://github.com/moop250/42_Cpp)
+
 🎮 **Hobbies**
 * Gaming
 * Server Management
