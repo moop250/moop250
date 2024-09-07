@@ -3,7 +3,7 @@
 
 I'm a 19-year-old programming student currently studying at Ecole 42
 
-Through my studies, at 42 I have been learning C and am well on my way to moving on to C++. I have basic experience in Cisco Networking from my time studying at the Open University and from personal experience running a home lab. I mainly have experience in Windows and Linux with basic MacOS experience.
+Through my studies, at 42 I have been learning C and C++. I have basic experience in Cisco Networking from my time studying at the Open University and from personal experience running a home lab. I mainly have experience in Windows and Linux with basic MacOS experience.
 
 In my free time, I like to work on side projects, run and manage personal servers (including but not limited to game servers for my friends), play video games (my all-time favorite being Team Fortress 2), and ride my motorcycle (a BMW f850 gs).
 
