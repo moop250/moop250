@@ -22,6 +22,8 @@ Here you will find all of my important repos
 
 * [C++](https://github.com/moop250/42_Cpp)
 
+* [NetPractice](https://github.com/moop250/netpractice)
+
 🎮 **Hobbies**
 * Gaming
 * Server Management
