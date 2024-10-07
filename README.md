@@ -24,6 +24,8 @@ Here you will find all of my important repos
 
 * [NetPractice](https://github.com/moop250/netpractice)
 
+* [cub3d](https://github.com/moop250/cub3d)
+
 🎮 **Hobbies**
 * Gaming
 * Server Management
