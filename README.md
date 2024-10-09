@@ -22,8 +22,6 @@ Here you will find all of my important repos
 
 * [C++](https://github.com/moop250/42_Cpp)
 
-* [NetPractice](https://github.com/moop250/netpractice)
-
 * [cub3d](https://github.com/moop250/cub3d)
 
 🎮 **Hobbies**
