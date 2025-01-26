@@ -91,10 +91,23 @@ window#waybar {
 	font-weight: bold;
 }
 
-#disk, #memory, #cpu, #network, #pulseaudio, #bluetooth {
+#disk, #memory, #network,  #bluetooth, #power-profiles-daemon, #custom-notification {
 	margin:0px;
+	margin-right:5px;
 	padding:0px;
 	font-size:14px;
+}
+
+#pulseaudio {
+	margin-right:10px;
+}
+
+#cpu {
+	margin-right:6px;
+}
+
+#idle_inhibitor {
+	margin-right:10px;
 }
 
 #pulseaudio {
