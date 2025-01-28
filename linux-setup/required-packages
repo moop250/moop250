@@ -1,13 +1,3 @@
-archlinux-xdg-menu
-lazygit
-neovim
-networkmanager
-hypridle
-hyprlock
-hyprpaper
-hyprshot
-hyprpicker
-starship
-swaync
-waybar
-wofi
+pacman: archlinux-xdg-menu cliphist dolphin ffmpeg ffmpegthumbs lazygit neovim networkmanager hypridle hyprlock hyprpaper  hyprpicker starship swaync waybar wofi
+
+paru: hyprshot
