@@ -11,6 +11,7 @@ In my free time, I like to work on side projects, run and manage personal server
 * Cisco Networking
 * Windows & Linux platforms
 * C
+* C++
 
 📁 **Main Repos**
 
