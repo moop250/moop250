@@ -1,0 +1,14 @@
+[General]
+autoSaveImage=true
+clipboardGroup=PostScreenshotCopyImage
+useReleaseToCapture=true
+
+[GuiConfig]
+quitAfterSaveCopyExport=true
+
+[ImageSave]
+lastImageSaveLocation=file:///home/moop/Pictures/Screenshots/Screenshot_20250820_184836.png
+translatedScreenshotsFolder=Screenshots
+
+[VideoSave]
+translatedScreencastsFolder=Screencasts
