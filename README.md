@@ -8,10 +8,8 @@ Through my studies, at 42 I have been learning C and C++. I have basic experienc
 In my free time, I like to work on side projects, run and manage personal servers (including but not limited to game servers for my friends), play video games (my all-time favorite being Team Fortress 2), and ride my motorcycle (a BMW f850 gs).
 
 💼 **Skills & Proficiencies**
-* Cisco Networking
-* Windows & Linux platforms
-* C
-* C++
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,linux,react,ts,vscodium,windows&perline=3)](https://skillicons.dev)
 
 📁 **Main Repos**
 
@@ -21,8 +19,7 @@ Here you will find all of my important repos
 
 💻 **I'm Currently working on**
 
-* [webserv](https://github.com/moop250/webserv)
-* [Inception](https://github.com/moop250/Inception)
+* Transedance
 
 🎮 **Hobbies**
 * Gaming
