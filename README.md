@@ -9,7 +9,7 @@ In my free time, I like to work on side projects, run and manage personal server
 
 💼 **Skills & Proficiencies**
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,linux,react,ts,vscodium,windows&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,linux,tailwind,ts,vscodium,windows&perline=3)](https://skillicons.dev)
 
 📁 **Main Repos**
 
