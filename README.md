@@ -1,7 +1,7 @@
 # Hi there, I'm Hugo / Moop
 ![GitHub followers](https://img.shields.io/github/followers/moop250?label=Follow&color=red&style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/moop250?style=flat-square&color=yellow) ![](https://komarev.com/ghpvc/?username=moop250&style=flat-square)
 
-I'm a 20-year-old programming student finishing up his studies at Ecole 42
+I'm a 21-year-old programmer
 
 Through my studies, at 42 I have been learning C and C++. I have basic experience in Cisco Networking from my time studying at the Open University and from personal experience running a home lab. I mainly have experience in Windows and Linux with basic MacOS experience.
 
@@ -40,4 +40,3 @@ Here you will find all of my important repos
 📫 **Get in Touch**
 
 - **Email**: [moop_git@proton.me](moop_git@proton.me)
-- **Linkedin**: [Hugo Libine](https://www.linkedin.com/in/hugo-libine/)
